@@ -37,5 +37,4 @@ libre para que lo compiles tu mismo ;D
 Si tienes dudas o problemas en algo, contactame </br>
 Con gusto te responderé :D </br>
 </br>
-[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
-
+[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM01000)
